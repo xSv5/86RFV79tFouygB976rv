@@ -1,7 +1,7 @@
 amazon: 45
 apple: 12
 uber: 8
-airbnb: 2
+airbnb: 0
 nike: 15
 steam: 30
 google: 21
@@ -9,4 +9,4 @@ ebay: 5
 gaming: 18
 retail: 22
 streaming: 50
-cards: 14
+cards: 58
